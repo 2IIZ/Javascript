@@ -1,0 +1,20 @@
+@Date:   2018-06-21T17:48:39+02:00
+@Last modified time: 2018-06-21T17:57:22+02:00
+
+1. JSON data is written inside curly braces        {}
+2. data is represented as key value pairs          { "KEY" : "VALUE" }
+3. Keys should be enclosed in double quotes        ""
+4. Key and value should be separated by a colon    :
+5. comma is used to separate data                  ,
+6. Square brackets hold arrays
+7. Curly braces hold objects
+
+JSON values:
+
+1. Numbers -> not enclosed
+2. String  -> enclosed ""
+3. Bool -> true/false
+4. null
+5. array ->
+
+{ "name":"Ivan", "lastName":"Izquierdo", "age":20, "isMarried":false }
