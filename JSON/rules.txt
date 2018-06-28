@@ -1,5 +1,5 @@
 @Date:   2018-06-21T17:48:39+02:00
-@Last modified time: 2018-06-21T17:57:22+02:00
+@Last modified time: 2018-06-28T14:29:40+02:00
 
 1. JSON data is written inside curly braces        {}
 2. data is represented as key value pairs          { "KEY" : "VALUE" }
@@ -16,5 +16,6 @@ JSON values:
 3. Bool -> true/false
 4. null
 5. array ->
+6  objects ->
 
 { "name":"Ivan", "lastName":"Izquierdo", "age":20, "isMarried":false }
